@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrithveeOjha
-- 👀 I’m interested in technology, design and web 3.
+- 👀 I’m interested in technology, design, flutter, and devops.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on anything interesting.
   
