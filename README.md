@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @PrithveeOjha
 - 👀 I’m interested in technology, design, flutter, and devops.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning python and devops.
 - 💞️ I’m looking to collaborate on anything interesting.
 - ⚡ Fun fact: Sometimes, I don't write comments in code to give my peers a challenge.
   
