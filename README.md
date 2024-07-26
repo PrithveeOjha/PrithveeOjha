@@ -7,4 +7,4 @@
   
 
 ## 🧑‍💻 Tech Stack:
-![6e19fee6b47b36ca613f](https://github.com/user-attachments/assets/b704af05-af00-4c38-bea4-4c8ad60c3cb8)
+Java  React  Material UI  Flutter  Redux   CSS  HTML  JavaScript  Firebase  MySQL  NodeJS 
