@@ -7,6 +7,5 @@
   
 
 ## 🧑‍💻 Tech Stack:
-<img src="https://github.com/user-attachments/assets/83f11264-58f5-416d-8f3e-09a5280abc90" width="120" height="60">
-
+<img src="https://github.com/user-attachments/assets/20011379-34e2-4a6d-9c9a-ad530139061c" width="50" height="60">
 
