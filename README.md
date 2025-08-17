@@ -1,6 +1,7 @@
 ## Who am I !!!
 
 - 👋 Hi, I’m @PrithveeOjha
+- ☁️ I am an [AWS certified Cloud practitioner](https://www.credly.com/badges/73d2d75e-eb05-4a03-b15c-8ade10ac3dda/public_url).
 - 👀 I’m interested in technology, design, flutter, and devops.
 - 🌱 I’m currently learning python and devops.
 - 💞️ I’m looking to collaborate on anything interesting.
